@@ -8,4 +8,4 @@ def square_array(array)
   return new_arr
 end
 
-square_array([1,2,3,4,5])
+puts square_array([1,2,3,4,5])
